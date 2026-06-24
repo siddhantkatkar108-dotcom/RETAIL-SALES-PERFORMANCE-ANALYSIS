@@ -52,7 +52,7 @@ This project analyzes retail sales data using Excel, SQL, and Power BI. The dash
 - Discovered customer purchasing patterns and sales opportunities.
 
 ### DASHBOARD SCREENSHOT
-<img width="1315" height="738" alt="Screenshot 2026-06-22 160850" src="https://github.com/user-attachments/assets/656e76da-efc0-4cf8-9239-2c4376a06ef0" />
+<img width="1289" height="730" alt="Screenshot 2026-06-24 133837" src="https://github.com/user-attachments/assets/7ab604c9-9ba6-4b88-8fbb-62938e99b30e" />
 
 ### Author
 **Siddhant Katkar**
